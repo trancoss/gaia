@@ -1,0 +1,39 @@
+# Packages #
+############
+# Compress files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.far
+*.rar
+*.zip
+
+# Logs and database #
+#####################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.dbf
+
+# Build Systems #
+#################
+
+node_modules/
+bower_components/
+.sass-cache
+*.css.map
+build/
+dist/
+.idea/
